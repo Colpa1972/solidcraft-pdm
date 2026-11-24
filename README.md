@@ -11,6 +11,31 @@ A small **local product data management (PDM)** tool for [SolidCraft](https://gi
 ## Start
 Double-click `PDM-starten.command` (first time: right-click → Open), or run `python3 pdm.py`. The app opens in your browser (local only, `http://127.0.0.1:8765`). Quit by closing the terminal window.
 
+## Screenshots
+
+The interface follows your system's light or dark mode (the images below do too).
+
+**Parts list with details and versions / Teileliste mit Details und Versionen**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/pdm-uebersicht-dunkel.png">
+  <img src="docs/pdm-uebersicht.png" alt="Parts list with details and versions of a part" width="900">
+</picture>
+
+**Rotatable 3D view / Drehbare 3D-Ansicht**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/pdm-3d-ansicht-dunkel.png">
+  <img src="docs/pdm-3d-ansicht.png" alt="Rotatable 3D view of a shaft" width="700">
+</picture>
+
+**Work folder / Arbeitsordner**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/pdm-arbeitsordner-dunkel.png">
+  <img src="docs/pdm-arbeitsordner.png" alt="Work folder with files assigned to parts" width="900">
+</picture>
+
 ## Folders (created on first start)
 - `~/Documents/PDM/Arbeit` – work folder: save your SolidCraft files (`.sc`) here.
 - `~/Documents/PDM/Tresor` – vault: protected, immutable versions (do not edit by hand).
@@ -40,6 +65,31 @@ Kleine **lokale Teileverwaltung (PDM)** für [SolidCraft](https://github.com/tan
 
 ## Start
 Doppelklick auf `PDM-starten.command` (beim ersten Mal: Rechtsklick → Öffnen) oder `python3 pdm.py`. Das Programm öffnet sich im Browser (nur lokal, `http://127.0.0.1:8765`). Beenden: Terminal-Fenster schließen.
+
+## Bildschirmfotos
+
+Die Oberfläche folgt dem hellen oder dunklen Modus deines Systems (die Bilder unten auch).
+
+**Teileliste mit Details und Versionen**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/pdm-uebersicht-dunkel.png">
+  <img src="docs/pdm-uebersicht.png" alt="Teileliste mit Details und Versionen eines Teils" width="900">
+</picture>
+
+**Drehbare 3D-Ansicht**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/pdm-3d-ansicht-dunkel.png">
+  <img src="docs/pdm-3d-ansicht.png" alt="Drehbare 3D-Ansicht einer Welle" width="700">
+</picture>
+
+**Arbeitsordner**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/pdm-arbeitsordner-dunkel.png">
+  <img src="docs/pdm-arbeitsordner.png" alt="Arbeitsordner mit den Dateien und ihrer Zuordnung zu Teilen" width="900">
+</picture>
 
 ## Ordner (werden beim ersten Start angelegt)
 - `~/Documents/PDM/Arbeit` – hier speicherst du in SolidCraft deine Dateien (`.sc`).
