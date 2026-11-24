@@ -18,15 +18,15 @@ The interface follows your system's light or dark mode (the images below do too)
 **Parts list with details and versions / Teileliste mit Details und Versionen**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/pdm-uebersicht-dunkel.png">
-  <img src="docs/pdm-uebersicht.png" alt="Parts list with details and versions of a part" width="900">
+  <source media="(prefers-color-scheme: dark)" srcset="docs/pdm-carrot-feeder-dunkel.png">
+  <img src="docs/pdm-carrot-feeder.png" alt="Parts list with the Carrot Feeder selected, details and versions" width="900">
 </picture>
 
 **Rotatable 3D view / Drehbare 3D-Ansicht**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/pdm-3d-ansicht-dunkel.png">
-  <img src="docs/pdm-3d-ansicht.png" alt="Rotatable 3D view of a shaft" width="700">
+  <source media="(prefers-color-scheme: dark)" srcset="docs/pdm-carrot-feeder-3d-dunkel.png">
+  <img src="docs/pdm-carrot-feeder-3d.png" alt="Rotatable 3D view of the Carrot Feeder" width="700">
 </picture>
 
 **Work folder / Arbeitsordner**
@@ -73,15 +73,15 @@ Die Oberfläche folgt dem hellen oder dunklen Modus deines Systems (die Bilder u
 **Teileliste mit Details und Versionen**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/pdm-uebersicht-dunkel.png">
-  <img src="docs/pdm-uebersicht.png" alt="Teileliste mit Details und Versionen eines Teils" width="900">
+  <source media="(prefers-color-scheme: dark)" srcset="docs/pdm-carrot-feeder-dunkel.png">
+  <img src="docs/pdm-carrot-feeder.png" alt="Teileliste mit ausgewähltem Carrot Feeder, Details und Versionen" width="900">
 </picture>
 
 **Drehbare 3D-Ansicht**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/pdm-3d-ansicht-dunkel.png">
-  <img src="docs/pdm-3d-ansicht.png" alt="Drehbare 3D-Ansicht einer Welle" width="700">
+  <source media="(prefers-color-scheme: dark)" srcset="docs/pdm-carrot-feeder-3d-dunkel.png">
+  <img src="docs/pdm-carrot-feeder-3d.png" alt="Drehbare 3D-Ansicht des Carrot Feeders" width="700">
 </picture>
 
 **Arbeitsordner**
